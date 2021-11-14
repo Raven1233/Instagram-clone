@@ -22,6 +22,12 @@ This is an instagram clone that has been developed using Next JS together with T
 <img src="./ss/s2.png" alt="pic3" />
 <p><b>Home page of logged-in user:-</b></p>
 <img src="./ss/s4.png" alt="pic4" />
+<p><b>New Post:-</b></p>
+<img src="./ss/s5.png" alt="pic4" />
+<p><b>Preview of new post:-</b></p>
+<img src="./ss/s6.png" alt="pic4" />
+<p><b>New post on feed:-</b></p>
+<img src="./ss/s7.png" alt="pic4" />
 
 
 
