@@ -1,3 +1,28 @@
+# Instagram clone using Next JS, Tailwind CSS, Faker Js, Firebase, with state mangement using Recoil and authentication using NextAuth:-
+This is an instagram clone that has been developed using Next JS together with Tailwind CSS. It uses Faker Js to implement fake user data in suggestions and stories. The NextAuth feature of Next js has been used for authentication with google account. It uses Recoil instead of Redux for state management and user profile saving inside the application. It also uses Firebase for the realtime database feature.
+
+# What i learnt in this project:-
+1) Implementing Google authentication using NextAuth.
+2) Implementing Faker JS to create fake user data.
+3) Implementing Tailwind-scrollbar in Tailwind CSS.
+4) Working with Recoil for state management.
+5) Better understanding of NextJs and its features.  
+
+
+I will later host this app as I am currently facing a few problems with regards to hosting.
+
+# Screenshots of the app:-
+<p><b>Landing Page:-</b></p>
+<img src="./ss/s1.png" alt="pic1" />
+<p><b>Login Page:-</b></p>
+<img src="./ss/s3.png" alt="pic2" />
+<p><b>Basic Post:-</b></p>
+<img src="./ss/s2.png" alt="pic3" />
+<p><b>Home page of logged-in user:-</b></p>
+<img src="./ss/s4.png" alt="pic4" />
+
+
+
 # Next.js + Tailwind CSS Example
 
 This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v2.2)](https://blog.tailwindcss.com/tailwindcss-2-2) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
