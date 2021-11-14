@@ -9,7 +9,9 @@ This is an instagram clone that has been developed using Next JS together with T
 5) Better understanding of NextJs and its features.  
 
 
-I will later host this app as I am currently facing a few problems with regards to hosting.
+# Live version of the app:- [Link](https://instagram-clone-subhadeep-das.vercel.app/)
+
+## Note:- Please do log out of the app before exiting. To Log out simply click on your profile picture on the top-right!!
 
 # Screenshots of the app:-
 <p><b>Landing Page:-</b></p>
